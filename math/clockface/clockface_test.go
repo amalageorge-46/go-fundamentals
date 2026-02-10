@@ -2,7 +2,6 @@ package clockface
 
 import (
 	"math"
-	"strings"
 	"testing"
 	"time"
 )
